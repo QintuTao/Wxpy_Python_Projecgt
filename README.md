@@ -1,2 +1,2 @@
 # Wxpy_Python_Projecgt
-An automated Wechat Plugin Project 
+An automated Wechat Bot Project
